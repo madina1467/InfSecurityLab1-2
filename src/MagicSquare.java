@@ -18,7 +18,7 @@ public class MagicSquare {
             magic[row][col] = i;
         }
 
-    }
+    }///slslslls
 
     public void doublyEven(int[][] magicsqr) {
         int N = magicsqr.length;
